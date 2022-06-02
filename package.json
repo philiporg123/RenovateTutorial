@@ -1,10 +1,10 @@
 {
-  "name": "philip_test",
+  "name": "renovate_tutorial",
   "version": "0.0.1",
-  "description": "some model",
+  "description": "a simple package json for renovate tutorial use only",
   "main": "index.js",
-  "repository": "https://someDummy/prof/me.git",
-  "author": "The Black Thorn",
+  "repository": "https://someDummygit/myOrg/myRepo.git",
+  "author": "PhilMend",
   "license": "Apache-2.0",
   "dependencies": {
     "six": "0.0.6",
