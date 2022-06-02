@@ -1,0 +1,14 @@
+{
+  "name": "philip_test",
+  "version": "0.0.1",
+  "description": "some model",
+  "main": "index.js",
+  "repository": "https://someDummy/prof/me.git",
+  "author": "The Black Thorn",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "six": "0.0.6",
+    "lodash: "4.17.20",
+    "graceful-fs": "3.0.12"
+  }
+}
